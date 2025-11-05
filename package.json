@@ -1,12 +1,12 @@
 {
-  "name": "theme-bluloco-dark",
-  "displayName": "Bluloco Dark Theme",
+  "name": "theme-bluloco-dark-m",
+  "displayName": "Bluloco Dark Theme (m)",
   "description": "A fancy but yet sophisticated dark designer color scheme / theme.",
-  "version": "3.7.6",
+  "version": "3.7.6.1",
   "publisher": "uloco",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uloco/theme-bluloco-dark.git"
+    "url": "https://github.com/3rdPix/theme-bluloco-dark.git"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/uloco"
